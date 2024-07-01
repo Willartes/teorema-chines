@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718942246 source:/home/deb-pc/Documentos/C/serieLibniz/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
